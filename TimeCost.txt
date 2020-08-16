@@ -1,0 +1,4 @@
+Solapur   Pune   	5    200
+Solapur   Pune          3    300
+Pune      Solapur       5    200
+Pune      Solapur       3    300
